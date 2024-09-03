@@ -1,0 +1,15 @@
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.AssemblyInfoInputs.cache
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.AssemblyInfo.cs
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.csproj.CoreCompileInputs.cache
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.sourcelink.json
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.exe
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.deps.json
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.runtimeconfig.json
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.dll
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.pdb
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.dll
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\obj\Debug\net8.0\refint\Interaktiv.dll
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.pdb
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.genruntimeconfig.cache
+c:\Users\edvin.eriksson\Desktop\Programering 1\Interaktiv\Interaktiv\obj\Debug\net8.0\ref\Interaktiv.dll
