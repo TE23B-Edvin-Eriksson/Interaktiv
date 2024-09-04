@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\edvin.eriksson\\Desktop\\Programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj": {}
+    "C:\\Users\\edvin.eriksson\\Desktop\\Programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj": {}
   },
   "projects": {
-    "c:\\Users\\edvin.eriksson\\Desktop\\Programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj": {
+    "C:\\Users\\edvin.eriksson\\Desktop\\Programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\edvin.eriksson\\Desktop\\Programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj",
+        "projectUniqueName": "C:\\Users\\edvin.eriksson\\Desktop\\Programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj",
         "projectName": "Interaktiv",
-        "projectPath": "c:\\Users\\edvin.eriksson\\Desktop\\Programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj",
+        "projectPath": "C:\\Users\\edvin.eriksson\\Desktop\\Programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj",
         "packagesPath": "C:\\Users\\edvin.eriksson\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\edvin.eriksson\\Desktop\\Programering 1\\Interaktiv\\Interaktiv\\obj\\",
+        "outputPath": "C:\\Users\\edvin.eriksson\\Desktop\\Programering 1\\Interaktiv\\Interaktiv\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
