@@ -48,4 +48,5 @@
                 Console.WriteLine("Slut: Du blev attackerad och kunde inte fly.");
             }
         }
+        
 Console.ReadLine();
